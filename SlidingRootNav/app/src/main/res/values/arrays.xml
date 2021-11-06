@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="ld_activityScreenTitles">
+        <item>Player</item>
+        <item>Library</item>
+        <item>Folder</item>
+        <item>Download</item>
+        <item /> 
+        <item>App Manager</item>
+        <item>More</item>
+    </string-array>
+
+    <array name="ld_activityScreenIcons">
+        <item>@drawable/ic_video_player</item>
+        <item>@drawable/ic_video_library</item>
+        <item>@drawable/ic_video_folder</item>
+        <item>@drawable/ic_video_cloud_download</item>
+        <item>0</item>
+        <item>@drawable/ic_android</item> 
+        <item>@drawable/ic_apps</item>
+    </array>
+
+</resources>

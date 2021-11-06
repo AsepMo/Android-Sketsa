@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ViMail</string>
+    <string name="app_powered_by">Powered By</string>
+    <string name="app_currency">$</string>
+    <string name="app_androweb">AndroWeb</string>
+    
+    <string name="app_searching_server">Searching server..</string>
+    <string name="app_press_back_againt_to_exit">Press Back To Exit</string>
+    <!-- permissions -->
+    <string name="message_denied">Permission \"%1$s\" has been denied</string>
+</resources>
